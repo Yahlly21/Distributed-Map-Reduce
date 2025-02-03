@@ -1,4 +1,4 @@
-# Final Project: Introduction to Data Science
+# Final Project: Introduction to Data Science Course
 
 ## Yahlly Schein & Ron Elias
 
